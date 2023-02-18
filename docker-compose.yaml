@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  server:
+    build: ./            # Build the Docker image from the current directory
+    volumes:             # Mount the config.json file as a read-only volume inside the container
+      - ./config.json:/app/config.json:ro
+    ports:               # Expose the container's port 3000 to the host machine's port 3000
+      - "3000:3000"      # The first port number is the host machine port and the second is the container port

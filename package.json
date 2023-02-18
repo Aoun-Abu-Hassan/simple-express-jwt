@@ -1,0 +1,23 @@
+{
+  "name": "simple-express-jwt",
+  "version": "1.0.0",
+  "description": "you will learn how to implement JSON Web Token (JWT) authentication in a Node.js/Express.js application. JWT is a popular and secure method for authentication that allows users to securely transmit authentication data as a JSON object.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "aoun-abu-hassan",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-validator": "^6.15.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
