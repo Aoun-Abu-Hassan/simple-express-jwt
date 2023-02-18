@@ -28,7 +28,7 @@ This is a simple Node.js authentication API built with Express, bcrypt, and json
 
 
 ### Installation
-1. Clone the repository: git clone https://github.com/Aoun-Abu-Hassan/jwt-authentication-api
+1. Clone the repository: git clone https://github.com/Aoun-Abu-Hassan/simple-express-jwt
 2. Install dependencies: npm install
 3. Start the server: npm start
 
