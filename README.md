@@ -175,7 +175,7 @@ docker-compose up -d
 
 
 ### Support
-For support and questions, contact me : info@aounah.com or saltshani1#1111
+For support and questions, contact me : info@aounah.com or [saltshani1#1111](https://discord.com/users/473400524633276426)
 
 ### Contributing
 If you have any suggestions or improvements, feel free to create a pull request.
